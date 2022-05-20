@@ -1,0 +1,12 @@
+D:\vs-works\Sleep\bin\Debug\Sleep.exe.config
+D:\vs-works\Sleep\bin\Debug\Sleep.exe
+D:\vs-works\Sleep\bin\Debug\Sleep.pdb
+D:\vs-works\Sleep\obj\Debug\Sleep.csproj.AssemblyReference.cache
+D:\vs-works\Sleep\obj\Debug\Sleep.csproj.SuggestedBindingRedirects.cache
+D:\vs-works\Sleep\obj\Debug\Sleep.Properties.Resources.resources
+D:\vs-works\Sleep\obj\Debug\Sleep.Sleep.resources
+D:\vs-works\Sleep\obj\Debug\Sleep.csproj.GenerateResource.cache
+D:\vs-works\Sleep\obj\Debug\Sleep.csproj.CoreCompileInputs.cache
+D:\vs-works\Sleep\obj\Debug\Sleep.exe
+D:\vs-works\Sleep\obj\Debug\Sleep.pdb
+D:\vs-works\Sleep\obj\Debug\Sleep.Timer.resources
